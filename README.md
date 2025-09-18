@@ -43,13 +43,10 @@ Projects, stats and info about me.
 ---
 
 ## 📊 GitHub Stats
-These stats are automatically generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).  
-They show:
-- Total contributions (commits, PRs, issues)  
-- Top programming languages you use  
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexAndrei18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAndrei18&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexAndrei18&show_icons=true&theme=radical" alt="Alex's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAndrei18&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+</p>
 
 ---
 
