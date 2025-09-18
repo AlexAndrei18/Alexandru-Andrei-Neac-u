@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20I'm%20Alex%20👋&fontSize=40&fontAlignY=35)
+
 # Alexandru-Andrei-Neacșu
 Projects, stats and info about me.
 # 👋 Hi, I'm Alex
