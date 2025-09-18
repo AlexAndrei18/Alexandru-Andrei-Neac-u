@@ -36,9 +36,9 @@ Projects, stats and info about me.
 ---
 
 ## 📌 Featured Projects
-- [Course Generator](https://github.com/AlexAndrei18/course-generator) – Full-stack application that generates PDF course materials using AI  
-- [Project 2 - Coming Soon] – Description will go here  
-- [Project 3 - Coming Soon] – Description will go here  
+- [Course Generator](https://github.com/AlexAndrei18/course-generator) – Full-stack app that generates PDF course materials using AI  
+- [Project 2 – Coming Soon]  
+- [Project 3 – Coming Soon]  
 
 ---
 
