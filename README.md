@@ -52,5 +52,6 @@ Projects, stats and info about me.
 
 ## 📫 Contact
 - Email: alexandreineacsu06@gmail.com  
-- LinkedIn: [linkedin.com/in/alexandreineacsu](#) (add when ready)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-andrei-neacsu-547457377/)
+
 
